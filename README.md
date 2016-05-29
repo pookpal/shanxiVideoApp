@@ -3,6 +3,7 @@
 练习react-native, 用react-native重构的陕西广电视频APP(目前只是IOS版本，只做了iPhone6的适配)
 
 ## 安装方式
+
 ```
 1、 git clone https://github.com/pookpal/shanxiVideoApp.git
 
