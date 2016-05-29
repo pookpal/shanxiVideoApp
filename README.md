@@ -12,6 +12,11 @@
 
 ```
 
+## 运行截图
+![首页](https://raw.githubusercontent.com/pookpal/shanxiVideoApp/master/screenShots/index%402x.png)
+![播放页](https://raw.githubusercontent.com/pookpal/shanxiVideoApp/master/screenShots/player%402x.png)
+![播放全屏效果](https://raw.githubusercontent.com/pookpal/shanxiVideoApp/master/screenShots/fullscreen%402x.png)
+
 ## 使用的技术
 
 >* 路由的使用，页面跳转及传参
