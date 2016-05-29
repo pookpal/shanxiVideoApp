@@ -31,6 +31,7 @@ local.properties
 # node.js
 #
 node_modules/
+screenShots/
 npm-debug.log
 
 # BUCK
