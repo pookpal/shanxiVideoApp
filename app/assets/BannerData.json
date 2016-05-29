@@ -1,0 +1,135 @@
+{"code": "0000",
+  "subData": {
+    "categories": [],
+    "liveContents": [],
+    "sumContents": [],
+    "appContens": [],
+    "homePageItemDtos": [
+      {
+        "homePageInfoPosition": {
+          "id": 1,
+          "name": "大图1",
+          "showOrder": 0,
+          "description": "大图1",
+          "terminalType": "STBAPP"
+        },
+        "homePageInfoDtos": [
+          {
+            "id": 96,
+            "name": "青春",
+            "atomPosterResources": [
+              {
+                "id": 94,
+                "name": "1463454077209.jpg",
+                "createDate": 1463454077000,
+                "resourceURL": "http://up.app.008.cn:8087//group1/M00/00/01/ChCSsVc6ibaATaR7AADL9eeWrQk555.jpg",
+                "horizontalResolution": 720,
+                "verticalResolution": 320
+              }
+            ],
+            "homePageInfoType": 0,
+            "linkContent": "4|25|114942|9976",
+            "dateStart": 1463454425000,
+            "dateEnd": 1464664028000
+          }
+        ]
+      },
+      {
+        "homePageInfoPosition": {
+          "id": 3,
+          "name": "小图1",
+          "showOrder": 2,
+          "description": "小图1",
+          "terminalType": "STBAPP"
+        },
+        "homePageInfoDtos": [
+          {
+            "id": 92,
+            "name": "极限挑战",
+            "atomPosterResources": [
+              {
+                "id": 89,
+                "name": "1463387000853.jpg",
+                "createDate": 1463387001000,
+                "resourceURL": "http://up.app.008.cn:8087//group1/M00/00/02/ChCSsFc5g7WASWdfAAJuRUEt7pM074.jpg",
+                "horizontalResolution": 720,
+                "verticalResolution": 321
+              }
+            ],
+            "homePageInfoType": 0,
+            "linkContent": "4|36|82642|9970",
+            "dateStart": 1463387348000,
+            "dateEnd": 1467275351000
+          }
+        ]
+      },
+      {
+        "homePageInfoPosition": {
+          "id": 4,
+          "name": "小图2",
+          "showOrder": 3,
+          "description": "小图2",
+          "terminalType": "STBAPP"
+        },
+        "homePageInfoDtos": [
+          {
+            "id": 93,
+            "name": "跑男",
+            "atomPosterResources": [
+              {
+                "id": 90,
+                "name": "1463387056380.jpg",
+                "createDate": 1463387056000,
+                "resourceURL": "http://up.app.008.cn:8087//group1/M00/00/02/ChCSsFc5g-qAXwCFAAW5bC0mwco019.jpg",
+                "horizontalResolution": 720,
+                "verticalResolution": 321
+              }
+            ],
+            "homePageInfoType": 0,
+            "linkContent": "4|36|82643|9980",
+            "dateStart": 1463387406000,
+            "dateEnd": 1467275409000
+          }
+        ]
+      },
+      {
+        "homePageInfoPosition": {
+          "id": 5,
+          "name": "小图3",
+          "showOrder": 4,
+          "description": "小图3",
+          "terminalType": "STBAPP"
+        },
+        "homePageInfoDtos": [
+          {
+            "id": 98,
+            "name": "致单身",
+            "atomPosterResources": [
+              {
+                "id": 96,
+                "name": "1463467679115.jpg",
+                "createDate": 1463467679000,
+                "resourceURL": "http://up.app.008.cn:8087//group1/M00/00/01/ChCSsVc6vt-AWup2AAEFhRAbZeQ685.jpg",
+                "horizontalResolution": 720,
+                "verticalResolution": 320
+              }
+            ],
+            "homePageInfoType": 0,
+            "linkContent": "4|25|117817|9977",
+            "dateStart": 1463468029000,
+            "dateEnd": 1464677632000
+          }
+        ]
+      }
+    ],
+    "categoryCategoryRelations": [],
+    "categoryLiveContentRelations": [],
+    "categoryContentRelations": [],
+    "liveContentContentRelations": [],
+    "contentContentRelations": [],
+    "categoryAppContentRelations": [],
+    "simpleCategoryTagRelations": [],
+    "categorySizesDtos": [],
+    "tags": []
+  }
+}

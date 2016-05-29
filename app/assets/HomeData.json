@@ -1,0 +1,26 @@
+{
+  "live":[
+    {"name":"CCTV-1","icon":"http://up.app.008.cn:8087//group1/M00/00/01/ChCSsFaAxMuAZCZzAACuktjWTm0690.png"},
+    {"name":"CCTV-2","icon":"http://up.app.008.cn:8087//group1/M00/00/01/ChCSsFaAxZuAOk_2AAC7PLSDcrs986.png"},
+    {"name":"CCTV-3","icon":"http://up.app.008.cn:8087//group1/M00/00/01/ChCSsFaAxRKABTBVAAC7ZnUWM6Y689.png"},
+    {"name":"CCTV-4","icon":"http://up.app.008.cn:8087//group1/M00/00/01/ChCSsFaDoDKAAGoBAAC81P8kpr0213.png"},
+    {"name":"CCTV-5","icon":"http://up.app.008.cn:8087//group1/M00/00/01/ChCSsFaAxNmAcw5cAAC0eYUiymU088.png"},
+    {"name":"CCTV-5+","icon":"http://up.app.008.cn:8087//group1/M00/00/01/ChCSsFaAxPaAUhdLAAFa1YaGUiI058.png"},
+    {"name":"CCTV-6","icon":"http://up.app.008.cn:8087//group1/M00/00/01/ChCSsFaAxgGAcQTPAAC17pBDEcc861.png"},
+    {"name":"湖南卫视","icon":"http://up.app.008.cn:8087//group1/M00/00/01/ChCSsFaAxVSAND0eAABVv_vDcvA817.png"},
+    {"name":"浙江卫视","icon":"http://up.app.008.cn:8087//group1/M00/00/01/ChCSsFaAxWSAYBVaAABTLzA3z4k520.png"}
+  ],
+  "vod":[
+
+
+    {"name":"奔跑吧兄弟第四季","icon":"http://up.app.008.cn:8087//group1/M00/00/01/ChCSvVcNvPmAVeLpAAVNnHK4_gk304.jpg"},
+    {"name":"极限挑战第二季","icon":"http://up.app.008.cn:8087//group1/M00/00/02/ChCSsFcNvHSAUB7vAAWk2qB4v8Q785.jpg"},
+    {"name":"亲爱的翻译官","icon":"http://up.app.008.cn:8087//group1/M00/00/02/ChCSsFc5dU6ABFDeAASsqAa23vg648.jpg"},
+    {"name":"仙剑云之凡","icon":"http://up.app.008.cn:8087//group1/M00/00/01/ChCSsVcwSM6AepbfAAN4hUrOboI337.jpg"},
+    {"name":"致单身男女","icon":"http://up.app.008.cn:8087//group1/M00/00/02/ChCSsFcwSPaAXyx9AAO_-Qqw_LU314.jpg"},
+    {"name":"那年青春我们正好","icon":"http://up.app.008.cn:8087//group1/M00/00/01/ChCSvVchZ4WASYamAAMdPnibOms723.jpg"},
+    {"name":"柠檬初上","icon":"http://up.app.008.cn:8087//group1/M00/00/01/ChCSsVbmd-uAbY__AAYAgSpdj0Y645.jpg"},
+    {"name":"北京遇上西雅图","icon":"http://up.app.008.cn:8087//group1/M00/00/02/ChCSsFbhISiADuy_AACK5F921o8796.jpg"},
+    {"name":"花样姐姐第二季","icon":"http://up.app.008.cn:8087//group1/M00/00/00/ChCSvVbeLviAHB6QAAGQiQaNDNU126.jpg"}
+  ]
+}
