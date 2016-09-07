@@ -5,11 +5,15 @@
 ## 安装方式
 
 ```
-1、 git clone https://github.com/pookpal/shanxiVideoApp.git
+1、git clone https://github.com/pookpal/shanxiVideoApp.git
 
-2、执行 npm install
+2、npm install -g rnpm
 
-3、执行 react-native run-ios 或者是在xcode里 点击run
+3、npm install
+
+4、rnpm link
+
+5、执行 react-native run-ios 或者是在xcode里 点击run
 
 ```
 
